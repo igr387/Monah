@@ -1,7 +1,6 @@
 {
     "name": "Monah",
     "description": "Moy",
-    "keywords": ["Trojan-Go"],
     "env": {
         "PASSWORD": {
             "description": "PASSWORD",
